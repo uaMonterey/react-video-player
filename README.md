@@ -1,1 +1,1 @@
-# React-Video-Player
+# Video player
